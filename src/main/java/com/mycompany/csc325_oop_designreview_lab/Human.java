@@ -1,8 +1,9 @@
 package com.mycompany.csc325_oop_designreview_lab;
 
 /**
+ * Human class.
  *
- * @author MoaathAlrajab
+ * @author MoaathAlrajab, Jonathan Espinal
  */
 public abstract class Human {
 
